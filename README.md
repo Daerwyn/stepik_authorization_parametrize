@@ -1,0 +1,2 @@
+# stepik_authorization_parametrize
+Learning pytest parametrize
